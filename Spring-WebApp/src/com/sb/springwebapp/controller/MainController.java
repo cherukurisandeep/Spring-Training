@@ -1,6 +1,6 @@
-package com.sb.SpringWebApp.controller;
+package com.sb.springwebapp.controller;
 
-import com.sb.SpringWebApp.model.UserDetails;
+import com.sb.springwebapp.model.UserDetails;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;

@@ -1,4 +1,4 @@
-package com.sb.SpringWebApp.model;
+package com.sb.springwebapp.model;
 
 public class UserDetails {
     public String getFirstName() {
